@@ -8,7 +8,7 @@
 バックエンドはFastAPIで構築されています。</br>
 backend_chatディレクトリに移動し、必要なパッケージをインストールします。
 
-cd backend_chat
+cd backend_chat</br>
 pip install -r requirements.txt
 
 ※以下はrequirements.txtファイルの内容です：
