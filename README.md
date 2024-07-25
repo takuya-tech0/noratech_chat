@@ -1,4 +1,4 @@
-**</br>**# 前提条件
+# 前提条件</br>
 ・Python 3.8以上がインストールされていること</br>
 ・Node.js 14.x以上がインストールされていること</br>
 ・pipおよびnpmがインストールされていること
@@ -40,18 +40,18 @@ npm run dev<
 # ディレクトリ構造</br>
 アプリケーションのディレクトリ構造は以下のようになっています：
 
-chat_app/
-├── backend_chat/
-│   ├── main.py
-│   ├── requirements.txt
-└── frontend_chat/
-    ├── app/
-    │   ├── page.tsx
-    │   └── styles/
-    │       └── chat.css
-    ├── node_modules/ (このフォルダはリポジトリに含まれません)
-    ├── package.json
-    ├── tsconfig.json
+chat_app/</br>
+├── backend_chat/</br>
+│   ├── main.py</br>
+│   ├── requirements.txt</br>
+└── frontend_chat/</br>
+    ├── app/</br>
+    │   ├── page.tsx</br>
+    │   └── styles/</br>
+    │       └── chat.css</br>
+    ├── node_modules/ (このフォルダはリポジトリに含まれません)</br>
+    ├── package.json</br>
+    ├── tsconfig.json</br>
     └── ...
 
 # トラブルシューティング</br>
