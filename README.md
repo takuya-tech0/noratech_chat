@@ -12,8 +12,8 @@ cd backend_chat</br>
 pip install -r requirements.txt
 
 ※以下はrequirements.txtファイルの内容です：</br>
-fastapi
-uvicorn
+fastapi</br>
+uvicorn</br>
 pydantic
 
 # アプリの起動方法</br>
